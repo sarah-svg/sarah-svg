@@ -19,7 +19,9 @@
   - Databases: PostgreSQL  </br>
   - Tools: VS Code, Slack, Github,  Heroku, Netlify, Postman, pgAdmin </br>
   - Dev Dependance: superagent, express, cors, dotenv, node, and etc...... </br>
-  
+<h3>
+Extra Courses Udemy: Socket.io, Node.js, SQL business, Python
+</h3>
 </div>
 <div align="center">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=sarah-svg&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-svg&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
