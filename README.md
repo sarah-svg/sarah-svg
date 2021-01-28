@@ -22,6 +22,6 @@
   
 </div>
 <div align="center">
-  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sarah-svg&show_icons=true&hide_title=true&hide_border=true&theme=dark" /></br><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-svg&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
-</div>
+  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sarah-svg&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-svg&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
+</div></br>
 <img src="bottomImage.png"></img>
