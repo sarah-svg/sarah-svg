@@ -1,16 +1,30 @@
-### Hi there 👋
-
-<!--
-**sarah-svg/sarah-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="topImage.png"></img>
+<div align="left">
+<h2> All about me: </h2>
+      <h4> Hardworking creative coder who loves the outdoors and solving problems. </h4>
+      <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
+      After working as a cosmetoglogist for the past decade, I am a people person who has a passion for code, and learning as much as I can.
+      I have a amazing skill of talking and understanding my surroundings and making it creative and learning at the same time.
+</div>
+<div align="left">
+ <h4>
+   GitHub Stats:
+ </h4>
+</div>  
+<div align="left">
+<h3> Tech: </h3>
+  - Languages: Javascript, HTML, CSS </br>
+  - Front-End: React, Redux  </br>
+  - Testing: Jest, QUnit, Node  </br>
+  - Databases: PostgreSQL  </br>
+  - Tools: VS Code, Slack, Github,  Heroku, Netlify, Postman, pgAdmin </br>
+  - Dev Dependance: superagent, express, cors, dotenv, node, and etc...... </br>
+  
+</div>
+<div align="center">
+  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sarah-svg&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-svg&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
+</div>
+<div>
+    * LinkedIn:<a href="https://www.linkedin.com/in/sarah-skillen-7339b61b8/"></a>
+</div>
+<img src="bottomImage.png"></img>
