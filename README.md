@@ -23,7 +23,7 @@
       Extra Courses Udemy: Socket.io, Node.js, SQL business, Python
 </h3>
 </div>
-<div align="center">
+<div align="">
   <img align="left" height="230px" src="https://github-readme-stats.vercel.app/api?username=sarah-svg&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="right" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-svg&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
 </div></br>
 <img width="800px"  src="bottomImage.png"></img>
