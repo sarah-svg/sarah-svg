@@ -1,5 +1,5 @@
 <img src="topImage.png" width="800px" height="200"></img>
-<div align="left">
+<div align="center">
 <h2> All about me: </h2>
       <h4> Hardworking creative coder who loves the outdoors and solving problems. </h4>
       After working as a cosmetoglogist for the past decade, I am a people person who has a passion for code, and learning as much as I can.
