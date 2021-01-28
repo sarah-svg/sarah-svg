@@ -1,4 +1,4 @@
-<img src="topImage.png" width="200px" height="200"></img>
+<img src="topImage.png" width="800px" height="200"></img>
 <div align="left">
 <h2> All about me: </h2>
       <h4> Hardworking creative coder who loves the outdoors and solving problems. </h4>
