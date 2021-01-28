@@ -2,9 +2,9 @@
 <div align="left">
 <h2> All about me: </h2>
       <h4> Hardworking creative coder who loves the outdoors and solving problems. </h4>
-      <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
       After working as a cosmetoglogist for the past decade, I am a people person who has a passion for code, and learning as much as I can.
-      I have a amazing skill of talking and understanding my surroundings and making it creative and learning at the same time.
+      I have a amazing skill of talking and understanding my surroundings and making it creative and learning at the same time.      
+      <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
 </div>
 <div align="left">
  <h4>
